@@ -35,6 +35,6 @@ The following are the available instuctions this machine has:
 ### An example
 An inp.txt is added to this repo to enable you run an instruction that loop ten times and find the sum of the numbers you entered. You can change the numbers from line 21 to have different result. This program will also display the sum in the output.
 ## More to come
-    I am going to be building a basic compiler for this machine, that will us to talk to this machine in a higher language rather than machine instuction in one's and zero's. 
+I am going to be building a basic compiler for this machine, that will us to talk to this machine in a higher language rather than machine instuction in one's and zero's. 
 
 ## Thank You
